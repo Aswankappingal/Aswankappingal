@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswankappingal&label=Profile%20views&color=0e75b6&style=flat" alt="aswankappingal" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aswankappingal/Portfolio.git](https://github.com/Aswankappingal/Portfolio.git)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-861be.web.app](https://my-portfolio-861be.web.app)
 
 - 💬 Ask me about **React,HTML,CSS,Javascript,Express js**
 
